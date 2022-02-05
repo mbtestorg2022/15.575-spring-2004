@@ -4,18 +4,179 @@ title: Calendar
 uid: 1e0f8805-5eed-e9e7-a493-99c4650f6665
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: Versioning and Price Discrimination |  |
-| 2 | Pricing Information | Two-page analysis due |
-| 3 | Search and Competition I |  |
-| 4 | Search and Competition II | Two-page analysis due |
-| 5 | Reputation, Trust and Recommender Systems |  |
-| 6 | Economics of Networks, Standards and Lock-In | Two-page analysis due  {{< br >}}  {{< br >}}Paper proposal due 1 week after lecture 6 |
-| 7 | IT and Productivity | Two-page analysis due |
-| 8 | The Principal-Agent Model of the Firm |  |
-| 9 | Managerial Views of the Firm | Two-page analysis due |
-| 10 | Incomplete Contracts and Firm Boundaries | Draft paper due |
-| 11 | Student Presentations | ICIS submission deadline 3 days after lecture 11 |
-| 12 | Student Presentations (cont.) |  |
-| 13 | The Future of the Information Economy | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Versioning and Price Discrimination
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Pricing Information
+{{< tdclose >}}
+{{< tdopen >}}
+Two-page analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Search and Competition I
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Search and Competition II
+{{< tdclose >}}
+{{< tdopen >}}
+Two-page analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Reputation, Trust and Recommender Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Economics of Networks, Standards and Lock-In
+{{< tdclose >}}
+{{< tdopen >}}
+Two-page analysis due  
+  
+Paper proposal due 1 week after lecture 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+IT and Productivity
+{{< tdclose >}}
+{{< tdopen >}}
+Two-page analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Principal-Agent Model of the Firm
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Managerial Views of the Firm
+{{< tdclose >}}
+{{< tdopen >}}
+Two-page analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Incomplete Contracts and Firm Boundaries
+{{< tdclose >}}
+{{< tdopen >}}
+Draft paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ICIS submission deadline 3 days after lecture 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Future of the Information Economy
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
