@@ -4,6 +4,7 @@ description: Lecture presentation covering ways to view the firm and implication
   for knowledge and skill.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/d78ce15f90c550741baad48e17ca1b0c_ag_vw_firm_impli.pdf
 file_type: application/pdf
+parent_uid: d8a83803-3e8a-8de4-0d18-d59a3d730ce8
 resourcetype: Document
 title: ag_vw_firm_impli.pdf
 uid: d78ce15f-90c5-5074-1baa-d48e17ca1b0c

@@ -4,6 +4,7 @@ description: Sample student project presentation. Courtesy of David Dreyfus. Use
   with permission.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/e4120f15071cb694dc0f6564ec87f265_networkcohesion.pdf
 file_type: application/pdf
+parent_uid: c90e6ec2-ec3a-d3d8-70a7-b660afb8e09d
 resourcetype: Document
 title: networkcohesion.pdf
 uid: e4120f15-071c-b694-dc0f-6564ec87f265
